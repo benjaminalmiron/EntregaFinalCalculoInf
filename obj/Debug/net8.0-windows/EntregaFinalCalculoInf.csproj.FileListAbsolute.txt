@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\ANALISTA PROGRAMADOR\Calculo Infinitesimal\EntregaFinalCalculoInf\EntregaFinalCalculoInf\bin\Debug\net8.0-windows\EntregaFinalCalculoInf.exe
+C:\Users\Usuario\Desktop\ANALISTA PROGRAMADOR\Calculo Infinitesimal\EntregaFinalCalculoInf\EntregaFinalCalculoInf\bin\Debug\net8.0-windows\EntregaFinalCalculoInf.deps.json
+C:\Users\Usuario\Desktop\ANALISTA PROGRAMADOR\Calculo Infinitesimal\EntregaFinalCalculoInf\EntregaFinalCalculoInf\bin\Debug\net8.0-windows\EntregaFinalCalculoInf.runtimeconfig.json
+C:\Users\Usuario\Desktop\ANALISTA PROGRAMADOR\Calculo Infinitesimal\EntregaFinalCalculoInf\EntregaFinalCalculoInf\bin\Debug\net8.0-windows\EntregaFinalCalculoInf.dll
+C:\Users\Usuario\Desktop\ANALISTA PROGRAMADOR\Calculo Infinitesimal\EntregaFinalCalculoInf\EntregaFinalCalculoInf\bin\Debug\net8.0-windows\EntregaFinalCalculoInf.pdb
+C:\Users\Usuario\Desktop\ANALISTA PROGRAMADOR\Calculo Infinitesimal\EntregaFinalCalculoInf\EntregaFinalCalculoInf\obj\Debug\net8.0-windows\EntregaFinalCalculoInf.Form1.resources
+C:\Users\Usuario\Desktop\ANALISTA PROGRAMADOR\Calculo Infinitesimal\EntregaFinalCalculoInf\EntregaFinalCalculoInf\obj\Debug\net8.0-windows\EntregaFinalCalculoInf.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\ANALISTA PROGRAMADOR\Calculo Infinitesimal\EntregaFinalCalculoInf\EntregaFinalCalculoInf\obj\Debug\net8.0-windows\EntregaFinalCalculoInf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ANALISTA PROGRAMADOR\Calculo Infinitesimal\EntregaFinalCalculoInf\EntregaFinalCalculoInf\obj\Debug\net8.0-windows\EntregaFinalCalculoInf.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ANALISTA PROGRAMADOR\Calculo Infinitesimal\EntregaFinalCalculoInf\EntregaFinalCalculoInf\obj\Debug\net8.0-windows\EntregaFinalCalculoInf.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ANALISTA PROGRAMADOR\Calculo Infinitesimal\EntregaFinalCalculoInf\EntregaFinalCalculoInf\obj\Debug\net8.0-windows\EntregaFinalCalculoInf.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ANALISTA PROGRAMADOR\Calculo Infinitesimal\EntregaFinalCalculoInf\EntregaFinalCalculoInf\obj\Debug\net8.0-windows\EntregaFinalCalculoInf.sourcelink.json
+C:\Users\Usuario\Desktop\ANALISTA PROGRAMADOR\Calculo Infinitesimal\EntregaFinalCalculoInf\EntregaFinalCalculoInf\obj\Debug\net8.0-windows\EntregaFinalCalculoInf.dll
+C:\Users\Usuario\Desktop\ANALISTA PROGRAMADOR\Calculo Infinitesimal\EntregaFinalCalculoInf\EntregaFinalCalculoInf\obj\Debug\net8.0-windows\refint\EntregaFinalCalculoInf.dll
+C:\Users\Usuario\Desktop\ANALISTA PROGRAMADOR\Calculo Infinitesimal\EntregaFinalCalculoInf\EntregaFinalCalculoInf\obj\Debug\net8.0-windows\EntregaFinalCalculoInf.pdb
+C:\Users\Usuario\Desktop\ANALISTA PROGRAMADOR\Calculo Infinitesimal\EntregaFinalCalculoInf\EntregaFinalCalculoInf\obj\Debug\net8.0-windows\EntregaFinalCalculoInf.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ANALISTA PROGRAMADOR\Calculo Infinitesimal\EntregaFinalCalculoInf\EntregaFinalCalculoInf\obj\Debug\net8.0-windows\ref\EntregaFinalCalculoInf.dll
