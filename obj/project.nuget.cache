@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "puyUeNKR7qc=",
+  "dgSpecHash": "zz1h9w6AAZE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\ANALISTA PROGRAMADOR\\Calculo Infinitesimal\\EntregaFinalCalculoInf\\EntregaFinalCalculoInf\\EntregaFinalCalculoInf.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Esteban\\source\\repos\\EntregaFinalCalculoInf\\EntregaFinalCalculoInf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Esteban\\.nuget\\packages\\angourimath\\1.3.0\\angourimath.1.3.0.nupkg.sha512",
+    "C:\\Users\\Esteban\\.nuget\\packages\\antlr4.runtime.standard\\4.9.2\\antlr4.runtime.standard.4.9.2.nupkg.sha512",
+    "C:\\Users\\Esteban\\.nuget\\packages\\generictensor\\1.0.4\\generictensor.1.0.4.nupkg.sha512",
+    "C:\\Users\\Esteban\\.nuget\\packages\\honksharp\\1.0.1\\honksharp.1.0.1.nupkg.sha512",
+    "C:\\Users\\Esteban\\.nuget\\packages\\petero.numbers\\1.8.0\\petero.numbers.1.8.0.nupkg.sha512"
+  ],
   "logs": []
 }

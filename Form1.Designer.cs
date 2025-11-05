@@ -39,17 +39,20 @@
             // cbExpresiones
             // 
             cbExpresiones.FormattingEnabled = true;
-            cbExpresiones.Location = new Point(204, 111);
+            cbExpresiones.Location = new Point(25, 95);
+            cbExpresiones.Margin = new Padding(3, 4, 3, 4);
             cbExpresiones.Name = "cbExpresiones";
-            cbExpresiones.Size = new Size(121, 23);
+            cbExpresiones.Size = new Size(396, 28);
             cbExpresiones.TabIndex = 0;
+            cbExpresiones.SelectedIndexChanged += cbExpresiones_SelectedIndexChanged;
             // 
             // btnCalcular
             // 
             btnCalcular.Font = new Font("Verdana", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            btnCalcular.Location = new Point(226, 182);
+            btnCalcular.Location = new Point(25, 170);
+            btnCalcular.Margin = new Padding(3, 4, 3, 4);
             btnCalcular.Name = "btnCalcular";
-            btnCalcular.Size = new Size(75, 23);
+            btnCalcular.Size = new Size(86, 31);
             btnCalcular.TabIndex = 1;
             btnCalcular.Text = "Calcular";
             btnCalcular.UseVisualStyleBackColor = true;
@@ -58,9 +61,10 @@
             // btnSiguientePaso
             // 
             btnSiguientePaso.Font = new Font("Verdana", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            btnSiguientePaso.Location = new Point(226, 232);
+            btnSiguientePaso.Location = new Point(25, 236);
+            btnSiguientePaso.Margin = new Padding(3, 4, 3, 4);
             btnSiguientePaso.Name = "btnSiguientePaso";
-            btnSiguientePaso.Size = new Size(75, 23);
+            btnSiguientePaso.Size = new Size(86, 31);
             btnSiguientePaso.TabIndex = 2;
             btnSiguientePaso.Text = "Siguiente paso";
             btnSiguientePaso.UseVisualStyleBackColor = true;
@@ -68,18 +72,20 @@
             // 
             // rtbSalida
             // 
-            rtbSalida.Location = new Point(482, 48);
+            rtbSalida.Location = new Point(459, 64);
+            rtbSalida.Margin = new Padding(3, 4, 3, 4);
             rtbSalida.Name = "rtbSalida";
-            rtbSalida.Size = new Size(191, 372);
+            rtbSalida.Size = new Size(520, 523);
             rtbSalida.TabIndex = 3;
             rtbSalida.Text = "";
             // 
             // btnReset
             // 
             btnReset.Font = new Font("Verdana", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            btnReset.Location = new Point(226, 284);
+            btnReset.Location = new Point(25, 306);
+            btnReset.Margin = new Padding(3, 4, 3, 4);
             btnReset.Name = "btnReset";
-            btnReset.Size = new Size(75, 23);
+            btnReset.Size = new Size(86, 31);
             btnReset.TabIndex = 4;
             btnReset.Text = "Reiniciar";
             btnReset.UseVisualStyleBackColor = true;
@@ -89,24 +95,25 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Verdana", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.Location = new Point(27, 51);
+            label1.Location = new Point(25, 30);
             label1.Name = "label1";
-            label1.Size = new Size(449, 14);
+            label1.Size = new Size(552, 18);
             label1.TabIndex = 5;
             label1.Text = "Seleccione una expresion para realizar el paso a paso de la misma.";
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.AppWorkspace;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(1007, 600);
             Controls.Add(label1);
             Controls.Add(btnReset);
             Controls.Add(rtbSalida);
             Controls.Add(btnSiguientePaso);
             Controls.Add(btnCalcular);
             Controls.Add(cbExpresiones);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
