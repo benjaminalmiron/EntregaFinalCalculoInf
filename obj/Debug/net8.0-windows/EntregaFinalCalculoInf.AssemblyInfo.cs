@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EntregaFinalCalculoInf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf60fb71f20f0becec39428a2c9e2507e35cf833")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f020835219964331c500516405e92f64618137d")]
 [assembly: System.Reflection.AssemblyProductAttribute("EntregaFinalCalculoInf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EntregaFinalCalculoInf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
